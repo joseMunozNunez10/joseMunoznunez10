@@ -36,10 +36,25 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" style="margin: 0 5px;"/>        
 </p>
 
-## GitHub Stats     
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" alt="github stats Badge" style="margin: 0 5px;"/>
-</p>
+## 🚀 Proyectos Destacados
+
+### Proyecto 1: Dulce Hogar
+![Imagen del Proyecto 1](URL_DE_TU_IMAGEN_1)
+
+Sitio web especializado en la compra, venta y arriendo de inmuebles.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](URL_DE_TU_REPOSITORIO_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
+
+---
+
+### Proyecto 2: [Nombre del Proyecto]
+![Imagen del Proyecto 2](URL_DE_TU_IMAGEN_2)
+
+[Breve descripción de tu segundo proyecto]
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](URL_DE_TU_REPOSITORIO_GITHUB_2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
 
 ¡Gracias por visitar mi perfil!
 
