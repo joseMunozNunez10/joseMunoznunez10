@@ -1,7 +1,7 @@
 <div aling="center">
 <h1 aling= "Center">Hola, Soy Jose Muñoz 👋 </h1>
 </div>
-![Banner](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/fondo.png?raw=true)
+<img src="https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/fondo.png?raw=true">
 
 
 
