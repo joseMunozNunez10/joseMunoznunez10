@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>"💡 Jose Muñoz | Innovación y Desarrollo Full Stack con Python/Django 💻"</h1>
+  <h2>"💡 Jose Muñoz | Innovación y Desarrollo Full Stack con Python/Django 💻"</h2>
 </p>
 <img src="https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/fondo.png?raw=true">
 <p align="center">
