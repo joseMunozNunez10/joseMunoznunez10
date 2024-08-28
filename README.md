@@ -3,7 +3,7 @@
 </p>
 <img src="https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/fondo.png?raw=true">
 <p align="center">
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="Mac OS" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" (https://github.com/joseMunozNunez10/San_Sebastian) alt="Mac OS" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" style="margin: 0 5px;"/>    
 </p>
@@ -38,22 +38,30 @@
 
 ## 🚀 Proyectos Destacados
 
-### Proyecto 1: Dulce Hogar
-![Imagen del Proyecto 1](URL_DE_TU_IMAGEN_1)
+### Proyecto: Maestranza San Sebastian
+![Imagen del Proyecto 0](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/sansebastian.png?raw=true)
 
-Sitio web especializado en la compra, venta y arriendo de inmuebles.
+Sitio web para Pyme, empresa dedicada a la construccion metalurgia. **Proyecto Personal**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](URL_DE_TU_REPOSITORIO_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/San_Sebastian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
+
+### Proyecto: Dulce Hogar
+![Imagen del Proyecto 1](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/dulce%20hogar.png?raw=true)
+
+Sitio web especializado en la compra, venta y arriendo de inmuebles. **Proyecto Talento Digital**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/Dulce_Hogar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
 
 ---
 
-### Proyecto 2: [Nombre del Proyecto]
-![Imagen del Proyecto 2](URL_DE_TU_IMAGEN_2)
+### Proyecto: OnlyFlans
+![Imagen del Proyecto 2](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/Onlyflans.png?raw=true)
 
-[Breve descripción de tu segundo proyecto]
+Sitio web de reposteria, venta de flans. **Proyecto Talento Digital** 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](URL_DE_TU_REPOSITORIO_GITHUB_2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/onlyFlans-app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
 
 ¡Gracias por visitar mi perfil!
