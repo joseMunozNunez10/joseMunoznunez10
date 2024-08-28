@@ -17,7 +17,7 @@
 
 - 💻 **Tecnologías**: Python, JavaScript, Django, Bootstrap
 - 🌐 **Proyectos**: Desarrollo de aplicaciones web, diseño UI/UX
-- 📚 **Aprendizaje**: Full Stack Python, cursos de accesibilidad, curso de CI/CD en IBM 
+- 📚 **Aprendizaje**: Full Stack Python, Certificacion Google en UX, curso de CI/CD en IBM 
 - 🤝 **Colaboración**: Trabajo en equipo y contribuciones a proyectos open source
 
 ## Hard Skills 
