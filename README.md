@@ -41,7 +41,7 @@
 ### Proyecto: Maestranza San Sebastian
 ![Imagen del Proyecto 0](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/sansebastian.png?raw=true)
 
-Sitio web para Pyme, empresa dedicada a la construccion metalurgia. **Proyecto Personal**
+Sitio web para Pyme, empresa dedicada a la construccion metalurgia. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/San_Sebastian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
@@ -49,7 +49,7 @@ Sitio web para Pyme, empresa dedicada a la construccion metalurgia. **Proyecto P
 ### Proyecto: Dulce Hogar
 ![Imagen del Proyecto 1](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/dulce%20hogar.png?raw=true)
 
-Sitio web especializado en la compra, venta y arriendo de inmuebles. **Proyecto Talento Digital**
+Sitio web especializado en la compra, venta y arriendo de inmuebles. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/Dulce_Hogar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
@@ -59,7 +59,7 @@ Sitio web especializado en la compra, venta y arriendo de inmuebles. **Proyecto 
 ### Proyecto: OnlyFlans
 ![Imagen del Proyecto 2](https://github.com/joseMunozNunez10/joseMunoznunez10/blob/main/Onlyflans.png?raw=true)
 
-Sitio web de reposteria, venta de flans. **Proyecto Talento Digital** 
+Sitio web de reposteria, venta de flans.  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joseMunozNunez10/onlyFlans-app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
