@@ -21,19 +21,21 @@
 - 🤝 **Colaboración**: Trabajo en equipo y contribuciones a proyectos open source
 
 ## Hard Skills 
-<p>
-  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="python Badge" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white" alt="HTML Badge" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS badge" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="javascript badge" style="margin: 0 5px;"/>  
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Boostrap badge" style="margin: 0 5px;"/>  
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django badge" style="margin: 0 5px;"/>  
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="Postgres badge" style="margin: 0 5px;"/>  
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="Sqlite badge" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHUB badge" style="margin: 0 5px;"/>  
+<p>  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" style="margin: 0 5px;" />  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" style="margin: 0 5px;" /> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap badge" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django badge" style="margin: 0 5px;" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" style="margin: 0 5px;" /> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" style="margin: 0 5px;" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery badge" style="margin: 0 5px;"/>  
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma badge" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" style="margin: 0 5px;"/>        
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" style="margin: 0 5px;"/> 
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira badge" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Scrum-FFB300?style=for-the-badge&logo=agile&logoColor=white" alt="Scrum badge" style="margin: 0 5px;" />
 </p>
 
 ## 🚀 Proyectos Destacados
