@@ -69,7 +69,7 @@ Busco colaborar en proyectos innovadores que generen impacto real.
       <img src="https://github.com/joseMunozNunez10/joseMunozNunez10/blob/main/redimension.png" width="100%">
       <p><em>Sistema de gestión para empresa de transporte ejecutivo</em></p>
       <div>
-        <a href="https://github.com/joseMunozNunez10/Transportes_Mazem" target="_blank">
+        <a href="https://github.com/joseMunozNunez10/TransportesMazem" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
         </a>
         <a href="https://www.transportesmazem.cl" target="_blank">
